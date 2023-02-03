@@ -8,6 +8,7 @@ We created a Smartphone-based application that monitors the driver's face in rea
 # Requirements
 
 1. Hardware
+
     -> Android Phone with
         * minimum SDK 21
         * 1GB RAM or above
