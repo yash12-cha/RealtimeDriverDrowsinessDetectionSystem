@@ -10,10 +10,15 @@ We created a Smartphone-based application that monitors the driver's face in rea
 1. Hardware
 
     -> Android Phone with
+    
         * minimum SDK 21
+        
         * 1GB RAM or above
+        
         * 32GB Storage or above
+        
         * Minimum 2 MP, f/2.2 Front Camera
+        
     ->  Adjustable Mobile Holder for Car Dashboard
 
 2. Software
