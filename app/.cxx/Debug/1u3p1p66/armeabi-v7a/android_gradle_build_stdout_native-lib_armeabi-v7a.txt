@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\shree\Downloads\EyeWarning\app\.cxx\Debug\1u3p1p66\armeabi-v7a'
+ninja: no work to do.

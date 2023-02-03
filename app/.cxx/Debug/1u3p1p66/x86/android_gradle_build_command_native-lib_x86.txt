@@ -1,0 +1,7 @@
+Executable : C:\Users\shree\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\shree\Downloads\EyeWarning\app\.cxx\Debug\1u3p1p66\x86
+native-lib
+jvmArgs : 
+
