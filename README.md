@@ -1,4 +1,4 @@
-# EyeWarning
+# Real-time Driver Drowsiness Detection System
 
 This is our final year project as an undergraduate. Using the image processing concept, we created an android-based drowsiness detection system.
 
