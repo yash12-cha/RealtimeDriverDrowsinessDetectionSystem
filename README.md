@@ -21,8 +21,11 @@ We created a Smartphone-based application that monitors the driver's face in rea
     ->  Adjustable Mobile Holder for Car Dashboard
 
 2. Software
+
     -> Android version 5.1.1 (Lollipop) or above
+    
     -> Pre-installed OpenCV Manager apk
+    
     -> Download shape_predictor_68_face_landmark.dat and store in internal storage of the android device
 
 
